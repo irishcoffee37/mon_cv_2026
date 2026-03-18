@@ -1,13 +1,14 @@
 [
   {
-      "grouping":"2025 : Licence professionnelle Techniques rédactionnelles et développements numériques",
-      "skills":[ "Maquette technique","Technologie et langage web (HTML, CSS, GIT)","Outils de la création numérique (création d'un podcast, montage vidéo, Epub)", "Correction ortho-typographique","Droit du livre (papier et numérique)"]
-  },{
-      "grouping":"2021-2024 : Licence de Lettres Modernes",
-      "skills":[ "Linguistique (grammaire, morphologie, syntaxe, phonétique)","Littérature comparée (anglaise : Beloved et le Chant des revenants, cinématographique : Ran et Le roi Lear)","Littérature ultra-contemporaine (Modiano et Echenoz)","Ateliers d'écriture (élaboration de nouvelles)","Les nouvelles approches littéraires (Bande dessinée, science-fiction, polar)"]
+      "grouping":"2025-2026 : Licence professionnelle Edition parcours numérique en alternance - Université Toulouse Jean Jaurès",
+      "skills":[ "Maquette","Technologie et langage web (HTML, CSS, GIT)","Outils de la création numérique (création d'un podcast, montage vidéo, Epub)", "Correction","Droit du livre (papier et numérique)"]
   },
   {
-      "grouping":"2021 : Baccalauréat mention Bien",
-      "skills":[ "Humanité, littérature, philosophie","LLCE espagnol","Histoire géographie, géopolitique, science politique"]
+      "grouping":"2023-2025 : BTS Communication en alternance - Ecole Imagine Campus à Bordeaux",
+      "skills": ["stratégie de communication, montage vidéo"]
+}, 
+  {
+      "grouping":"2021 : Baccalauréat General - Lycée Camille Jullian à Bordeaux",
+      "skills":[ "Spécialitées Humanité, littérature, philosophie","Sciences économiques et sociales","Histoire géographie, géopolitique, science politique"]
   }
 ]
