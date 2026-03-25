@@ -1,5 +1,5 @@
 title = "Loïs Lamoussière CV"
-baseURL = "https://loislamous.github.io/myresume/"
+baseURL = "https://irishcoffee37.github.io/mon_cv_2026/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
