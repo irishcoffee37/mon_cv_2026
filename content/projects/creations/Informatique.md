@@ -1,11 +1,9 @@
 {
 
-  "title": "Compétences informatiques : Certifications ICDL Excel et PIX",
-  "date": "2024-01-01",
-  "image": "/myresume/img/pix.jpg",
-  "link": "https://pix.fr/",
-  "description": "J'ai obtenu la certification ICDL Excel, attestant de mes compétences avancées en tableur et en analyse de données. De plus, j'ai validé la certification PIX, qui évalue mes compétences numériques globales, notamment en bureautique, cybersécurité et culture numérique. Mon code PIX de vérification est P-VHG29KT7.",
-  "fact": "Mon code PIX de vérification est P-VHG29KT7.",
+  "title": "Compétences informatiques : Maîtrise du language HTML & CSS, Pack Office, Suite Adobe",
+  "image": "/myresume/img/image adobe.jpg",
+  "link": "https://stock.adobe.com/fr/images/adobe-software-logo-set-featuring-variations-of-illustrator-photoshop-lightroom-and-premiere-pro-editorial-use-only/1256502856",
+  "description": "      Au cours de ma licence j'ai eu l'occasion de découvrir et de maîtriser le language HTML et CSS sur Visual Studio Code et Github. Je suis également devenue à l'aise avec des outils comme la suite Adobe dont InDesign, Illustrator et Photoshop.",
   "featured": true
 
 }
