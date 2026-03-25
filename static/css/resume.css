@@ -7,19 +7,33 @@ body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96;
-  background: url('/img/fond2.jpg') no-repeat center center fixed !important;
-  background-size: cover !important;
-}
-section, .container, .resume-section, .bg-light {
-  background: transparent !important; 
+  background: url('https://i.pinimg.com/1200x/f4/be/8a/f4be8a3ddbc2fd598b814648c1283bc2.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
 
-@media (min-width: 992px) {
-  body {
-    padding-top: 0;
-    padding-left: 17rem;
-  }
+section,
+container-fluid,
+resume-section {
+background-color: transparent !important; 
 }
+resume-section {
+  position: relative;
+  z-index: 2;
+}
+#sideNav {
+  z-index: 1;
+}
+container-fluid {
+  position: relative;
+  z-index: 2;
+}
+ 
+@media (min-width:992px) {
+  resume-section {
+    padding-left: 17rem;
+    }
+  }
+
 
 h1,
 h2,
