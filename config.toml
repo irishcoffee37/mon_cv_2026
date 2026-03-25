@@ -1,4 +1,4 @@
-title = "Loïs Lamoussière CV"
+title = "Iris Teissier CV 2026"
 baseURL = "https://irishcoffee37.github.io/mon_cv_2026/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -8,14 +8,14 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-title = "Recherche d'alternance"
-address = "Toulouse 31500"
-email = "loislamous@gmail.com"
+title = "Recherche d'emploi"
+address = "Bordeaux 33000"
+email = "iris.teiss@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Loïs"
-lastName = "Lamoussière"
-phone = "07 88 73 74 50"
-profileImage = "img/PhotoCV.jpg"
+firstName = "Iris"
+lastName = "Teissier"
+phone = "07 68 89 17 66"
+profileImage = "img/Photocv.JPG"
 showQr = false
 showContact = false
 showBoards  = false
@@ -31,11 +31,11 @@ trackerID = "XX-123446-01"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/lo%C3%AFs-lamoussi%C3%A8re-237068250/"
+    link = "https://www.linkedin.com/in/iris-teissier-55415b268/"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/LoisLamous"
+    link = "https://github.com/irishcoffee37"
 
 [[params.handles]]
     name = "Keybase"

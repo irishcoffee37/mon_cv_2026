@@ -1,11 +1,11 @@
 ---
 
-title: "Réceptionniste & chargée de communication - Hôtel WOOD INN"
+title: "Réceptionniste & chargée de communication                       -> Hôtel WOOD INN à Mérignac"
 date: 2024-10-01
 pubtype: Alternance
 featured: true
 description: "Lors de cette alternance, ma mission était d'accueillir les clients en gérant la réception de l'hôtel ainsi que les services proposés par ce dernier. En parallèle, j'ai conçu et mis en application une stratégie de communication pour l'hôtel qui consistait à animer les réseaux sociaux et le site internet. La production de supports visuels pour la mise en valeur de l'hôtel faisait également parti de mes missions"
-image: "/myresume/img/Wood Inn.jpeg"
+image: "img/Wood Inn.jpeg"
 link: "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1139533721522273"
 weight: 400
 sitemap:

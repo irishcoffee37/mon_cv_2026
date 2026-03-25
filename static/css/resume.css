@@ -7,6 +7,11 @@ body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96;
+  background: url('/img/fond2.jpg') no-repeat center center fixed !important;
+  background-size: cover !important;
+}
+section, .container, .resume-section, .bg-light {
+  background: transparent !important; 
 }
 
 @media (min-width: 992px) {
