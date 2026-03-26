@@ -7,33 +7,8 @@ body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96;
-  background: url('https://i.pinimg.com/1200x/f4/be/8a/f4be8a3ddbc2fd598b814648c1283bc2.jpg') no-repeat center center fixed;
-  background-size: cover;
+  margin-left: 17rem;
 }
-
-section,
-container-fluid,
-resume-section {
-background-color: transparent !important; 
-}
-resume-section {
-  position: relative;
-  z-index: 2;
-}
-#sideNav {
-  z-index: 1;
-}
-container-fluid {
-  position: relative;
-  z-index: 2;
-}
- 
-@media (min-width:992px) {
-  resume-section {
-    padding-left: 17rem;
-    }
-  }
-
 
 h1,
 h2,
@@ -136,6 +111,12 @@ section.resume-section {
   border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
+  background-color: #f8f9fa;
+  background-image: url('https://i.pinimg.com/736x/c7/e2/99/c7e2992ea8adad921e6fa770d7663db1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -146,7 +127,7 @@ section.resume-section .resume-item .resume-date {
   section.resume-section {
     min-height: 100vh;
   }
-  section.resume-section .resume-item .resume-date {
+  section.resume-section .resume-date {
     min-width: 18rem;
   }
 }
@@ -172,4 +153,13 @@ a {
 
 a:hover, a:focus, a:active {
   color: #08073f ;
+}
+
+.main {
+  margin-left: 0;
+  min-height: 100vh;
+  background-image: url('https://i.pinimg.com/736x/c7/e2/99/c7e2992ea8adad921e6fa770d7663db1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
