@@ -1,5 +1,5 @@
 title = "Iris Teissier CV 2026"
-baseURL = "https://irishcoffee37.github.io/mon_cv_2026/"
+baseURL = "https://irishcoffee37.github.io/mon_cv_2026"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -15,7 +15,7 @@ favicon = "/favicon.ico"
 firstName = "Iris"
 lastName = "Teissier"
 phone = "07 68 89 17 66"
-profileImage = "img/PhotoCV.JPG"
+profileImage = "img/PhotoCV.jpg"
 showQr = false
 showContact = false
 showBoards  = false
