@@ -211,11 +211,35 @@ a:hover, a:focus, a:active {
   color: #64343C !important;
 }
 
-/* Slide 4 - corps texte */
-#creations, #creations p, #creations li, #creations .subheading, #creations .resume-item, #creations .resume-item * {
+/* Slide 4 - textes complets */
+#creations, #creations h1, #creations h2, #creations h3, #creations p, #creations li, #creations .subheading, #creations .resume-item, #creations .resume-item *, #creations .text-primary {
+  color: #FFF1E9 !important;
+}
+
+#creations h2 a, #creations h3 a {
+  color: #FFF1E9 !important;
+}
+
+/* Slide 5 - contributions / centres d'intérêts */
+#contributions, #centres-dinteret,
+#contributions p, #contributions li, #contributions .subheading, #contributions .resume-item, #contributions .resume-item *,
+#centres-dinteret p, #centres-dinteret li, #centres-dinteret .subheading, #centres-dinteret .resume-item, #centres-dinteret .resume-item * {
   color: #FEEFDC !important;
 }
-#creations h1, #creations h2, #creations h3, #creations .text-primary {
+
+#centres-dinteret {
+  background-color: #3F1116 !important;
+}
+
+#contributions {
+  background-color: #3F1116 !important;
+}
+#contributions h1, #contributions h2, #contributions h3, #contributions .text-primary,
+#centres-dinteret h1, #centres-dinteret h2, #centres-dinteret h3 {
+  color: #FEEFDC !important;
+}
+#contributions h2 a, #contributions h3 a,
+#centres-dinteret h2 a, #centres-dinteret h3 a {
   color: #FEEFDC !important;
 }
 

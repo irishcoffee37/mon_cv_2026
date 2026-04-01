@@ -1,3 +1,14 @@
 body {
     background: red !important;
-    }
+}
+
+/* Titres de la page Centres d'intérêt */
+#centres-dinteret h1,
+#centres-dinteret h2,
+#centres-dinteret h3 {
+    color: #3F1116 !important;
+}
+
+#centres-dinteret .resume-item .resume-date p {
+    color: #3F1116 !important;
+}
