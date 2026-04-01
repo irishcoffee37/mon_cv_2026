@@ -62,6 +62,16 @@ h2 {
   color: #08073f ;
 }
 
+#sideNav {
+  background-color: #FFF1E9 !important;
+}
+
+#sideNav .navbar-nav .nav-item .nav-link,
+#sideNav .navbar-brand span,
+#sideNav .navbar-brand img {
+  color: #3F1116 !important;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase;
@@ -111,12 +121,29 @@ section.resume-section {
   border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  background-color: #f8f9fa;
-  background-image: url('https://i.pinimg.com/736x/c7/e2/99/c7e2992ea8adad921e6fa770d7663db1.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: none !important;
+}
+
+section.resume-section:nth-of-type(1) {
+  background-color: #3F1116 !important;
+}
+section.resume-section:nth-of-type(1) h1,
+section.resume-section:nth-of-type(1) h2,
+section.resume-section:nth-of-type(1) h1 .text-primary,
+section.resume-section:nth-of-type(2) h1,
+section.resume-section:nth-of-type(2) h2,
+section.resume-section:nth-of-type(2) h2 .text-primary {
+  color: #FEEFDC !important;
+}
+section.resume-section:nth-of-type(2) {
+  background-color: #64343C !important;
+}
+section.resume-section:nth-of-type(3) {
+  background-color: #FEEFDC !important;
+}
+
+section.resume-section:nth-of-type(4) {
+  background-color: #9D7960 !important;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -152,7 +179,44 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #08073f ;
+  color: #dcdbfa ;
+}
+
+/* Cible fixe pour titres slides 1 & 2 */
+#about h1, #about h2, #about .text-primary,
+#skills h1, #skills h2, #skills .text-primary {
+  color: #FEEFDC !important;
+}
+
+/* Slide 1 - sous-titre et email */
+#about .subheading, #about .subheading a {
+  color: #FFF1E9 !important;
+}
+
+/* Corps de texte slide 2 */
+#skills, #skills p, #skills li, #skills .subheading, #skills .resume-item, #skills .resume-item * {
+  color: #E1CBD7 !important;
+}
+
+/* Slide 3 - titres et corps texte */
+#publications h1, #publications h2, #publications h3, #publications .text-primary {
+  color: #3F1116 !important;
+}
+#publications h2 a,
+#publications h1 a,
+#publications h3 a {
+  color: #3F1116 !important;
+}
+#publications, #publications p, #publications li, #publications .subheading, #publications .resume-item, #publications .resume-item * {
+  color: #64343C !important;
+}
+
+/* Slide 4 - corps texte */
+#creations, #creations p, #creations li, #creations .subheading, #creations .resume-item, #creations .resume-item * {
+  color: #FEEFDC !important;
+}
+#creations h1, #creations h2, #creations h3, #creations .text-primary {
+  color: #FEEFDC !important;
 }
 
 .main {
